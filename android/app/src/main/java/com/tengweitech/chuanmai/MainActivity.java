@@ -1,4 +1,4 @@
-package com.chuanmai1;
+package com.tengweitech.chuanmai;
 
 import com.facebook.react.ReactActivity;
 import com.facebook.react.ReactActivityDelegate;

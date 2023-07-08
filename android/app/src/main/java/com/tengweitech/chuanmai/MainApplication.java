@@ -1,4 +1,4 @@
-package com.chuanmai1;
+package com.tengweitech.chuanmai;
 
 import android.app.Application;
 import com.facebook.react.PackageList;
