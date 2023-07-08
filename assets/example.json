@@ -1,0 +1,205 @@
+//Post
+{
+  "id": 198,
+  "title": "云水洞:198",
+  "content": "江山冷笑一声，“坐回去！”\n庄老太太倒是非常识时务，拉着女儿说：“你们也就欺负我们都是女人，你们等着瞧。”\n许疏桐来了之后，借助原主的眼力见，早早地让袁刚发挥特长，想必这辈子，袁刚和之前相比，除了事业有成就，生活也更加美满。\n看来祁正真的出事了……\n客厅里的祁正，终于知道战友的话一点不夸张，饭点的时候过来查看情况，确实会被屋里散发出来的菜香味，折磨得够呛。",
+  "user_id": 48,
+  "deadline": "2022-03-12 21:42:39",
+  "created_at": "2021-11-11 11:23:33",
+  "user": {
+    "id": 48,
+    "twid": "FNqK5542",
+    "wechat_id": "",
+    "nickname": "六个",
+    "logo": "/uploads/file/KngjOKQ7OK5zQFyb9gmi55qBOlYkvYBmLhKpAfde.jpeg"
+  },
+  "images": [
+    {
+      "id": 592,
+      "task_id": 198,
+      "url": "/uploads/file/buHxbGDF1AyLwLJkAe9QHzBaMPqhs97GVq2sNvol.jpeg"
+    },
+    {
+      "id": 593,
+      "task_id": 198,
+      "url": "/uploads/file/3IfKsz4OmD2HTA07ywoSk3wpEcFUQiTVnphNVbS0.jpeg"
+    },
+    {
+      "id": 594,
+      "task_id": 198,
+      "url": "/uploads/file/UQ6QY0PHRc7WKy2MvV74XnnFwQQfQZ3lwKXgF8Od.jpeg"
+    }
+  ],
+  "favorite": [
+    {
+      "id": 152,
+      "user_id": 72,
+      "task_id": 198,
+      "favorite": "L"
+    }
+  ],
+  "relation": [
+    {
+      "id": 1971,
+      "task_id": 198,
+      "tag_id": 1916,
+      "is_req": 1,
+      "tag": {
+        "id": 1916,
+        "tag_name": "养心",
+        "tag_section": "Y",
+        "follow": []
+      }
+    },
+    {
+      "id": 1972,
+      "task_id": 198,
+      "tag_id": 1956,
+      "is_req": 1,
+      "tag": {
+        "id": 1956,
+        "tag_name": "眼皮",
+        "tag_section": "Y",
+        "follow": [
+          {
+            "id": 212,
+            "user_id": 72,
+            "tag_id": 1956,
+            "mode": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": 1973,
+      "task_id": 198,
+      "tag_id": 1957,
+      "is_req": 1,
+      "tag": {
+        "id": 1957,
+        "tag_name": "蚕箔",
+        "tag_section": "C",
+        "follow": []
+      }
+    },
+    {
+      "id": 1974,
+      "task_id": 198,
+      "tag_id": 1958,
+      "is_req": 1,
+      "tag": {
+        "id": 1958,
+        "tag_name": "稀疏",
+        "tag_section": "X",
+        "follow": []
+      }
+    },
+    {
+      "id": 1975,
+      "task_id": 198,
+      "tag_id": 1959,
+      "is_req": 1,
+      "tag": {
+        "id": 1959,
+        "tag_name": "飞黄腾达",
+        "tag_section": "F",
+        "follow": []
+      }
+    },
+    {
+      "id": 1976,
+      "task_id": 198,
+      "tag_id": 1960,
+      "is_req": 0,
+      "tag": {
+        "id": 1960,
+        "tag_name": "病故",
+        "tag_section": "B",
+        "follow": []
+      }
+    },
+    {
+      "id": 1977,
+      "task_id": 198,
+      "tag_id": 1961,
+      "is_req": 0,
+      "tag": {
+        "id": 1961,
+        "tag_name": "产婆",
+        "tag_section": "C",
+        "follow": [
+          {
+            "id": 211,
+            "user_id": 72,
+            "tag_id": 1961,
+            "mode": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": 1978,
+      "task_id": 198,
+      "tag_id": 1962,
+      "is_req": 0,
+      "tag": {
+        "id": 1962,
+        "tag_name": "新丘",
+        "tag_section": "X",
+        "follow": []
+      }
+    },
+    {
+      "id": 1979,
+      "task_id": 198,
+      "tag_id": 1963,
+      "is_req": 0,
+      "tag": {
+        "id": 1963,
+        "tag_name": "驳辩",
+        "tag_section": "B",
+        "follow": []
+      }
+    },
+    {
+      "id": 1980,
+      "task_id": 198,
+      "tag_id": 1964,
+      "is_req": 0,
+      "tag": {
+        "id": 1964,
+        "tag_name": "肉松",
+        "tag_section": "R",
+        "follow": []
+      }
+    }
+  ]
+}
+
+//TAG
+{
+  "id": 2015,
+  "tag_name": "1电饭锅但是",
+  "follow": [
+    {
+      "id": 215,
+      "user_id": 72,
+      "tag_id": 2015,
+      "mode": 1
+    }
+  ],
+  "relation": [
+    {
+      "id": 1829,
+      "task_id": 183,
+      "tag_id": 2015,
+      "is_req": 0
+    },
+    {
+      "id": 2019,
+      "task_id": 207,
+      "tag_id": 2015,
+      "is_req": 1
+    }
+  ]
+}
