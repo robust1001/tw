@@ -1,6 +1,6 @@
 vars = {
   version: '1.0.03',
-  mainUrl: 'http://192.168.1.108:8000',
+  mainUrl: 'http://192.168.1.116:8000',
   msgMode: 0,
   vipMode: true,
   inRoom: false,
@@ -8,7 +8,7 @@ vars = {
 
   urlDownload: '', //StartupScreen
   urlPrivacy: '', //StartupScreen
-  urlAgreement: '', //StartupScreen
+  urlAgreement: '', //StartupScreens
   urlCompany: '', //StartupScreen
   urlPayAgree: '', //StartupScreen
 

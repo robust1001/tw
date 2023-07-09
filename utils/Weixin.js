@@ -10,9 +10,9 @@ import {weixinLoginAPI} from '../api/user';
 class Weixin {
   constructor() {}
 
-  wxRegisterApp = appid => {
-    console.log('wechat.registerApp:', appid);
-    wechat.registerApp(appid);
+  wxRegisterApp = (appid, universalLink) => {
+    console.log('wechat.registerApp:', appid, universalLink);
+    wechat.registerApp(appid, universalLink);
   };
 
   isWXAppInstalled = async () => {

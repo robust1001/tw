@@ -54,10 +54,7 @@ const AuthStack = createStackNavigator();
 export const AuthNavigator = () => {
   return (
     <SafeAreaView style={{flex: 1}} edges={['top']}>
-      <AuthStack.Navigator
-        screenOptions={{
-          headerShown: false,
-        }}>
+      <AuthStack.Navigator>
         <AuthStack.Screen
           name="SelLoginModeAuth"
           component={SelLoginModeScreen}
@@ -177,6 +174,7 @@ const MainNavigator = () => {
       dispatch(fetchChatUserAndNotiList());
       // dispatch(fetchNotifications());
     }
+    console.log('MainNavigator: ', MainNavigator);
     fetchData();
 
     initSocket();

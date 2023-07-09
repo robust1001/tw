@@ -108,7 +108,7 @@ const StartupScreen = props => {
         ENV.WX.APPID = resData.c;
         ENV.WX.MERCHANT_ID = resData.g;
 
-        Weixin.wxRegisterApp(resData.c);
+        Weixin.wxRegisterApp(resData.c, resData.i);
 
         if (ENV.version <= ENV.incomp_version) {
           //必须要更新
